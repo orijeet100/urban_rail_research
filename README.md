@@ -2,7 +2,8 @@
 
 ## 📊 Overview
 
-This repository contains the code and data for the research paper **"Resilience of urban rail networks globally guided by mesoscale and connectivity attributes"** published in [Journal Name]. The study analyzes the resilience of 45 global metro rail systems under various failure and recovery scenarios, providing insights into how network topology influences system robustness.
+This repository contains the code and data for the research paper **"Resilience of urban rail networks globally guided by mesoscale and connectivity attributes"** Currently Under Review at npj Sustainable Mobility and Transport. The study analyzes the resilience of 45 global metro rail systems under various failure and recovery scenarios, providing insights into how network topology influences system robustness.
+
 
 ## 🚇 Research Highlights
 
