@@ -1,4 +1,4 @@
-# Urban Rail Network Resilience Analysis [Currently Under Review]
+# Urban Rail Network Resilience Analysis [Currently Under Review at npj Sustainable Mobility and Transport]
 
 ## 📊 Overview
 
